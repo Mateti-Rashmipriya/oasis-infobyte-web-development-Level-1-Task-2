@@ -1,2 +1,20 @@
-# oasis-infobyte-web-development-Level-1-Task-2
-Personal Portfolio Website developed using HTML, CSS, and JavaScript to showcase my skills, projects, certifications, resume, and professional profiles.
+# Personal Portfolio Website
+
+This is my personal portfolio website developed using HTML and CSS.
+
+## Features
+- About Me
+- Technical Skills
+- Education
+- Projects
+- Certifications
+- Resume
+- Contact Information
+- LinkedIn and GitHub Links
+
+## Technologies Used
+- HTML
+- CSS
+
+## Author
+Mateti Rashmipriya
